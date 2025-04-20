@@ -30,10 +30,11 @@
 ## Быстрый старт
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/ваш-логин/redux-todo-list.git
+git clone https://github.com/enakaeeeena/to-do-list.git
 ```
 2.Установите зависимости:
 ``` bash
+cd vite-project
 npm install
 ```
 3. Запустите приложение
