@@ -1,4 +1,4 @@
-# Умный Todo List с Redux и аналитикой дедлайнов
+# Todo List с Redux и аналитикой дедлайнов
 
 [![React](https://img.shields.io/badge/React-18.2.0-blue)](https://react.dev)
 [![Redux](https://img.shields.io/badge/Redux_Toolkit-1.9.5-purple)](https://redux-toolkit.js.org)
