@@ -4,7 +4,7 @@
 [![Redux](https://img.shields.io/badge/Redux_Toolkit-1.9.5-purple)](https://redux-toolkit.js.org)
 [![date-fns](https://img.shields.io/badge/date--fns-2.30.0-green)](https://date-fns.org)
 
-Продвинутый менеджер задач с визуализацией сроков выполнения и интеллектуальной сортировкой
+Менеджер задач с визуализацией сроков выполнения и сортировкой
 
 ![to_do_list](https://github.com/user-attachments/assets/06bd1a50-27fc-4215-a2bc-02938da26249)
 
